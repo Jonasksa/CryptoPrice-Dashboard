@@ -150,7 +150,7 @@ Graduando em Sistemas de Informação | Desenvolvedor Full Stack
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/jonas-kasakewitch-721634230/)  
 - 📧 E-mail: <Jonaskasakewitch32@gmail.com>  
-- 🌐 [Portfólio](https://nathanthomaz.github.io)  
+- 🌐 [Portfólio](https://jonasksa.github.io/Portfolio/)  
 
 ---
 
