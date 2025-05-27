@@ -2,6 +2,7 @@
 
 Bem-vindo ao **CryptoPrice Dashboard**! Este é um projeto interativo desenvolvido em **Python** e **Streamlit**, que monitora em tempo real o desempenho das 10 principais criptomoedas do mercado.
 
+Link do site funcionando **https://cryptosales.streamlit.app/** 
 ---
 
 ## 📋 Sobre o Projeto
