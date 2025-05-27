@@ -144,13 +144,12 @@ O dashboard exibe:
 
 ## 👨‍💻 Autor
 
-![Profile Picture](https://avatars.githubusercontent.com/u/000000?v=4)  
-**[@NathanThomaz](https://github.com/NathanThomaz)**  
+
+**[@JonasKsa](https://github.com/jonasksa)**  
 Graduando em Sistemas de Informação | Desenvolvedor Full Stack  
 
-- 💬 [LinkedIn](https://linkedin.com/in/nathan-thomaz-devs)  
-- 📧 E-mail: <nathanthomaz@gmail.com>  
-- 📸 Instagram: [@nathann_thomaz](https://instagram.com/nathann_thomaz)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/jonas-kasakewitch-721634230/)  
+- 📧 E-mail: <Jonaskasakewitch32@gmail.com>  
 - 🌐 [Portfólio](https://nathanthomaz.github.io)  
 
 ---
